@@ -154,7 +154,7 @@ class _PkrPackagesState extends State<PkrPackages> {
                           child: Tooltip(
                             message: "Rara Lake",
                             child: Image.network(
-                                "https://t0.gstatic.com/images?q=tbn:ANd9GcQKZxIHpOnNup_zHAd-OwGFTiYsTg95NHiybaFHJ3W4TlarukwkM9ROZXKhRspUuyr-1X8s1fRxPU49sw"),
+                                "https://topnepaltreks.com/wp-content/uploads/2019/03/p4-lead-new_1540432493-1000x0.jpg"),
                           ),
                         ),
                         Container(
@@ -166,7 +166,7 @@ class _PkrPackagesState extends State<PkrPackages> {
                           child: Tooltip(
                             message: "Janakpur",
                             child: Image.network(
-                                "https://lh5.googleusercontent.com/p/AF1QipMO6dqyWVOGMbpipNzAuAsMvq4p1l8VcVz-kpuV=w296-h202-n-k-no-v1"),
+                                "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Janki_Mandir.JPG/1280px-Janki_Mandir.JPG"),
                           ),
                         ),
                         Container(
@@ -176,9 +176,9 @@ class _PkrPackagesState extends State<PkrPackages> {
                             color: Colors.lightBlueAccent,
                           ),
                           child: Tooltip(
-                            message: "Dbading",
+                            message: "Dhading",
                             child: Image.network(
-                                "https://t1.gstatic.com/images?q=tbn:ANd9GcSKZSepgIuP_ehA0_KvwzmtXCvqXiwpMbvRliSkfiv-UA9QC8C-Hb_F6gITe4Gc9T-9nqzRnw08oj5iIw"),
+                                "https://live.staticflickr.com/8837/16747707704_a9e922b109_b.jpg"),
                           ),
                         ),
                         SizedBox(
